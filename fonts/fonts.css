@@ -1,0 +1,77 @@
+
+
+
+
+@font-face {
+  font-family: 'ACBoucle';
+  src: url('ACBoucle.eot');                                  
+  src: url('ACBoucle.woff') format('woff'),                    /* Новые браузеры и IE9+ */
+       url('ACBoucle.ttf')  format('truetype');          /* Древние Safari, iOS, Android */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HelveticaRegular';                                  
+  src:url('Helvetica Neue.ttf')  format('truetype');     
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*@font-face {
+  font-family: 'HelveticaBold';                                  
+  src:url('HelveticaBold.ttf')  format('truetype');     
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+@font-face {
+  font-family: 'HelveticaBold';                                  
+  src:url('helveticaneuecyr-bold.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaLight';                                  
+  src:url('helveticaneuecyr-light.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HelveticaNeueCyr-Medium';                                  
+  src:url('HelveticaNeueCyr-Medium.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SFUIDisplay-Bold';                                  
+  src:url('SFUIDisplay-Bold.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Swiss721BT-Light';                                  
+  src:url('Swiss721BT-Light.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Swiss721BT-Medium';                                  
+  src:url('Swiss721BT-Medium.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'helveticaneuecyr-roman';                                  
+  src:url('helveticaneuecyr-roman.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
